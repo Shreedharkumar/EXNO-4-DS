@@ -24,8 +24,8 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-# NAME : praveenck
-# REG NO : 212222243003
+# NAME : IRFAN KHAN.N
+# REG NO : 212224230097
 ```python
 import pandas as pd
 import numpy as np
